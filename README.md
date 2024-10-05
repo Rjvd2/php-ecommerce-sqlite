@@ -5,11 +5,11 @@ This is a simple eCommerce application built using PHP and SQLite. The project f
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/yourusername/ecommerce_project.git
+git clone https://github.com/Rjvd2/php-ecommerce-sqlite.git
 
 
 2. Navigate to the project directory:
-cd ecommerce_project
+cd php-ecommerce-sqlite
 
 3. Set up the SQLite database:
 sqlite3 database/ecommerce.db < database/schema.sql
